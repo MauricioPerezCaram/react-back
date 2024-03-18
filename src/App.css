@@ -1,0 +1,30 @@
+.app {
+}
+
+.input-lupa {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
+.input-lupa img {
+  height: 50px;
+}
+
+.navbar {
+  padding: 15px;
+}
+
+.bienvenida {
+  width: 90%;
+  margin: auto;
+}
+
+.products-container {
+  width: 90%;
+  margin: auto;
+}
+
+.card {
+  width: 200px;
+}
